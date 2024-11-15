@@ -23,6 +23,8 @@ elseif a=="hdjvf92"then
 _G.whitelisted=true
 elseif a=="LiuHanDou"then
 _G.whitelisted=true
+elseif a=="IOEV54366"then
+_G.whitelisted=true
 elseif a=="qwaer81"then
 _G.whitelisted=true
 elseif a=="REQ906"then
