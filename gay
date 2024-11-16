@@ -17,6 +17,8 @@ elseif a=="EEVEENOT_Human"then
 _G.whitelisted=true
 elseif a=="xmxbk2"then
 _G.whitelisted=true
+elseif a=="yui1236987450q"then
+_G.whitelisted=true
 elseif a=="147258mn2"then
 _G.whitelisted=true
 elseif a=="AUTUMN"then
