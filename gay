@@ -15,6 +15,10 @@ elseif a=="alqpzm014"then
 _G.whitelisted=true
 elseif a=="EEVEENOT_Human"then
 _G.whitelisted=true
+elseif a=="147258mn33"then
+_G.whitelisted=true
+elseif a=="sggsh047"then
+_G.whitelisted=true
 elseif a=="xmxbk2"then
 _G.whitelisted=true
 elseif a=="yui1236987450q"then
