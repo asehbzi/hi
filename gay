@@ -13,6 +13,8 @@ elseif a=="666amns86"then
 _G.whitelisted=true
 elseif a=="alqpzm014"then
 _G.whitelisted=true
+elseif a=="zhf3838438"then
+_G.whitelisted=true
 elseif a=="EEVEENOT_Human"then
 _G.whitelisted=true
 elseif a=="147258mn33"then
