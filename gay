@@ -11,6 +11,8 @@ if a=="qpalzm10242"then
 _G.whitelisted=true
 elseif a=="666amns86"then
 _G.whitelisted=true
+elseif a=="2546ee9"then
+_G.whitelisted=true
 elseif a=="CN_sbdsb"then
 _G.whitelisted=true
 elseif a=="alqpzm014"then
